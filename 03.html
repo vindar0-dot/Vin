@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        /* 群組選擇器 */
+        #tb01, #tb02 {
+            border: 2px solid red;
+            width: 300px;
+            margin: 20px auto;
+            /* 取消儲存格間距 */
+            /* border-collapse: collapse; */
+            /* 設定儲存格間距 */
+            border-spacing: 5px;
+            color: #b16f6f;
+           
+        }
+        #tb01 td, #tb02 td {
+            border: 1px solid blue;
+            text-align: center;
+            padding: 10px;
+            color: green;
+        }
+        /* 結構選擇器 第一個子元素表 */
+        #tb01 tr:first-child, #tb02 tr:first-child {
+            font-weight: bold;
+            background-color: yellow;
+        }
+    </style>
+</head>
+<body>
+    <h1>第三堂</h1>
+    <h2>Blockquote</h2>
+    <p>
+        美式賣場好市多的黑鑽卡會員優惠再度引發討論。近期好市多與泰國安納塔拉度假會（Anantara Vacation Club）合作，推出黑鑽卡會員限定的豪華Villa住宿方案，由於包含住宿、早餐、接送與抵用券等高額回饋，消息一出便在會員圈掀起熱議。
+    </p>
+    <blockquote>美式賣場好市多的黑鑽卡會員優惠再度引發討論。近期好市多與泰國安納塔拉度假會（Anantara Vacation Club）合作，推出黑鑽卡會員限定的豪華Villa住宿方案，由於包含住宿、早餐、接送與抵用券等高額回饋，消息一出便在會員圈掀起熱議。</blockquote>
+    </blockquote>
+    <p>美式賣場好市多的黑鑽卡會員優惠再度引發討論。近期好市多與泰國安納塔拉度假會（Anantara Vacation Club）合作，推出黑鑽卡會員限定的豪華Villa住宿方案，由於包含住宿、早餐、接送與抵用券等高額回饋，消息一出便在會員圈掀起熱議。</p>
+    <table border="5">
+        <tr>
+            <th>姓名</th>
+            <th>年齡</th>
+        </tr>
+        <tr>
+            <td>王大明</td>
+            <td>35</td>
+        </tr>
+    </table>
+    <!-- Emmet 練習 table>tr*3>td*3 -->
+     <!-- 儲存格間距 cellpadding="數值" 單位:像素 -->
+    <table border="2" align="center" cellpadding="0 " cellspacing="10"
+    >
+    <tr>
+        <td>編號</td>   
+        <td border="2" align="center" cellpadding="0 " cellspacing="10"
+    >職業</td>
+        <td>性別</td>
+    </tr>
+    <tr>
+        <td border="2" align="center" cellpadding="0 " cellspacing="10"
+    >1</td>
+        <td>銷售員</td>
+        <td align="center">男</td>
+    </tr>
+    <tr>
+        <td border="2" align="center" cellpadding="0 " cellspacing="10"
+    >2</td>
+        <td>教師</td>
+        <td align="center">男</td>
+    </tr>
+    <!-- 合併儲存格 -->
+    </table>
+    <table id="tb02">   
+    <tr>
+        <td>編號</td>   
+        <td>公司</td>
+        <td>電話</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>yahoo</td>
+        <td>12345678</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>google</td>
+        <td>87654321</td>
+    </tr>
+    <tr">
+        <!--  跨列合併  -->
+        <td rowspan="2">3</td>
+        <td rowspan="2">Open AI</td>
+        <td>11111111</td>
+    </tr>
+    <tr>
+        <td>22222222</td>
+    </tr>
+    <tr>
+        <!--  跨欄合併  -->
+          <td colspan="3">備註：眼睛有點花</td>
+    </tr>
+
+    </table>
+</body>
+</html>
