@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(241, 176, 54);
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 標楷體;
+}
+
+a [href="https://www.google.com"] {
+    color: blue;
+}
+
+a [href="https://www.google.com"] {
+    color: green;
+}
