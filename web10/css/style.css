@@ -17,14 +17,15 @@ body {
     background-image: url(../images/04.png);
     height: 61px;
 }
-/* 800-(210*3)=170-30==140 */
+/* 800-(210*3)=170-30==140/2=70 */
 #album {
     padding: 0px 70px;
 }
 .myphoto {
     width: 210px;
-    margin: 0 50px;
+    margin: 0 5px;
     float: left;
+    position: relative;
 }
 .Watermark {
     position: absolute;
