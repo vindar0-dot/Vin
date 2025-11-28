@@ -28,15 +28,19 @@
     <h2>有回傳值的函數</h2>
     <p>有回傳值的函數可以使用 return 關鍵字來回傳一個值，這個值可以被呼叫函數的地方</p>
     <pre>
-         funtion 函數名稱(參數) {
+        // 有回傳值的函數
+        funtion 函數名稱(參數) {
             // 函數內的程式碼
             return 回傳值;
         }
     </pre>
     <!-- #msg02 當成顯示結果的區域 -->
-    <p>結果顯示於此</p>
-    <input type="button" value="計算" onclick="document.getElementById('msg02').innerText = sum(1,1)">
+    <p id="msg02">結果將顯示於此</p>
+    <!-- 按鈕 -->
+    <input type="button" value="計算" 
+            onclick="document.getElementById('msg02').innerText = sum(1,1)">
     <!-- <input type= "button" value="計算" onclick="2" -->
+
 
     <h2>MVC</h2>
     <P>MVC 是一種軟體設計模式，用來將應用程式分成三個主要部分：
@@ -51,9 +55,15 @@
     <p>物件是用來表示具有屬性和方法的實體，可以用來封裝相關的資料和行為</p>
     <pre>
         var car = {
-            color: red
-            model: Toyota
-
+            color: "red"
+            model: "Toyota",
+            year: 2020,
+            start: function() {
+                return "This car is starting.";
+            },
+            stop: function() {
+                return "This car is stopping.";
+            }
         }
     </pre>
     <p id="msg04">Car Message</p>
@@ -62,7 +72,7 @@
     <p>陣列是用來儲存多個值的資料結構，可以用來表示一組相關的資料</p>
     <pre>
         var chinese_scores = [85, 90, 78, 92, 88, 76, 95, 89, 84, 91];
-        var mach__scores = [80, 75, 88, 95, 91, 82, 87, 90, 93, 78];
+        var math_scores = [80, 75, 88, 95, 91, 82, 87, 90, 93, 78];
         var english_scores = [90, 85, 87, 93, 89, 92, 88, 91, 86, 94];
     </pre>
     <p id="msg05">Array Message</p>
@@ -88,14 +98,14 @@
     <p id="demo"></p>
     <script>
         function myFunction() {
-            var x="";
-            var time=new Date().getHours();
-            console.log("time =",time);
+            var x = "";
+            var time = new Date().getHours();
+            console.log("time =", time);
             if (time < 17) {
                 x = "Good day";
             }
-            document.getElementById("demo").innerHTML=x;
-            console.log("x =",x);
+            document.getElementById("demo").innerHTML = x;
+            console.log("x =", x);
         }
 
         // 判斷式
@@ -135,7 +145,7 @@
             "\nCar Array: " + cars[0] + ", " + car[1] + ", " + cars[2];
 
         var chinese_scores = [85, 90, 78, 92, 88, 76, 95, 89, 84, 91];
-        var mach__scores = [80, 75, 88, 95, 91, 82, 87, 90, 93, 78];
+        var math_scores = [80, 75, 88, 95, 91, 82, 87, 90, 93, 78];
         var english_scores = [90, 85, 87, 93, 89, 92, 88, 91, 86, 94];
 
         console.log("chinese", chinese_scores.length);
@@ -156,8 +166,8 @@
         console.log("english", english_scores.join());
 
 
-        document.getElementById("msg05").innerText = chinese_scores[0] + mach__scores[0] + english_scores[0] + "<br>";
-        document.getElementById("msg05").innerText += (chinese_scores[0] + mach__scores[0] + english_scores[0]) / 3;
+        document.getElementById("msg05").innerHTML = chinese_scores[0] + math__scores[0] + english_scores[0] + "<br>";
+        document.getElementById("msg05").innerHTML += (chinese_scores[0] + math_scores[0] + english_scores[0]) / 3;
 
         var cars2 = [
             { model: "Ford", color: "red", year: 2020 },
@@ -165,7 +175,9 @@
             { model: "Mazda", color: "green", year: 2021 },
         ];
 
-        // document.getElementById("msg05").innerHTML += "<br>" + cars2[1].model
+        console.log("cars2",cars2.length);
+        
+        document.getElementById("msg05").innerHTML += "<br>" + cars2[1].model + ", " + cars2[1].color + ", " +cars2[1].year;
 
 
         let a = 10;
