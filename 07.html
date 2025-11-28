@@ -75,68 +75,94 @@
             // 條件為真時執行的程式碼
         } else {    
             // 條件為假時執行的程式碼
+        } else {    
+            // 以上條件皆不為真時執行的程式碼
+            
         }
     </pre>
     <input type="number" name="" id="score" placeholder="請輸入分數">
     <button onclick="checkScore()">檢查分數</button>
 
+    <p>如果時間早於20:00，會顯示Good day</p>
+    <button onclick="myFunction()">請按這裡</button>
+    <p id="demo"></p>
     <script>
+        function myFunction() {
+            var x="";
+            var time=new Date().getHours();
+            console.log("time =",time);
+            if (time < 17) {
+                x = "Good day";
+            }
+            document.getElementById("demo").innerHTML=x;
+            console.log("x =",x);
+        }
+
         // 判斷式
         function checkScore() {
             let score = document.getElementById("score").value;
-            if (score >= 60){
+            if (score == 100) {
+                alert("滿分");
+            } else if (score >= 90) {
+                alert("優等");
+            } else if (score >= 80) {
+                alert("甲等");
+            } else if (score >= 70) {
+                alert("乙等");
+            } else if (score >= 60) {
                 alert("及格");
+            } else if (score >= 50) {
+                alert("補考");
             } else {
                 alert("不及格");
             }
         }
 
-
         var cars1 = "FORD";
         var cars2 = "TOYOTA";
         var cars3 = "MAZDA";
-        document.getElementById("msg05").innerText = 
+        document.getElementById("msg05").innerText =
             "Car 1: " + cars1 + ", Car 2: " + cars2 + ", Car 3: " + cars3;
 
         var cars = ["FORD", "TOYOTA", "MAZDA"];
-        console.log("cars",cars.join());
+        console.log("cars", cars.join());
         cars.sort();
-        console.log("cars",cars.join());
+        console.log("cars", cars.join());
         cars.reverse();
-        console.log("cars",cars.join());
-    
+        console.log("cars", cars.join());
+
         document.getElementById("msg05").innerText +=
-                "\nCar Array: " + cars[0] + ", " + car[1] + ", " + cars[2];    
-            
+            "\nCar Array: " + cars[0] + ", " + car[1] + ", " + cars[2];
+
         var chinese_scores = [85, 90, 78, 92, 88, 76, 95, 89, 84, 91];
         var mach__scores = [80, 75, 88, 95, 91, 82, 87, 90, 93, 78];
         var english_scores = [90, 85, 87, 93, 89, 92, 88, 91, 86, 94];
 
-        console.log("chinese",chinese_scores.length);
-        console.log("math",mach_scores.indexOf(100)); // 查找元素的位置，找不到
-        console.log("english",english_scores.join);
-        english_scores.sort(function(a,b){return a-b}); // 陣列排 ，由小到大
-        console.log("english",english_scores.join);
+        console.log("chinese", chinese_scores.length);
+        console.log("math", mach_scores.indexOf(100)); // 查找元素的位置，找不到
+        console.log("english", english_scores.join);
+        english_scores.sort(function (a, b) { return a - b }); // 陣列排 ，由小到大
+        console.log("english", english_scores.join);
         english_scores.reverse();
-        console.log("english",english_scores.join());
+        console.log("english", english_scores.join());
 
         english_scores.push(100); // 在陣列末尾添加一個新元素
-        console.log("english",english_scores.join());
+        console.log("english", english_scores.join());
         english_scores.unshift(99); // 在陣列開頭添加一個新元素
-        console.log("english",english_scores.join());
+        console.log("english", english_scores.join());
         english_scores.pop; // 移除陣列末尾的元素
-        console.log("english",english_scores.join());
+        console.log("english", english_scores.join());
         english_scores.shift; // 移除陣列開頭的元素
-        console.log("english",english_scores.join());
+        console.log("english", english_scores.join());
 
 
-        document.getElementById("msg05").innerText = chinese_scores[0]+mach__scores[0]+english_scores[0] + "<br>";
-        document.getElementById("msg05").innerText += (chinese_scores[0]+mach__scores[0]+english_scores[0])/3;
+        document.getElementById("msg05").innerText = chinese_scores[0] + mach__scores[0] + english_scores[0] + "<br>";
+        document.getElementById("msg05").innerText += (chinese_scores[0] + mach__scores[0] + english_scores[0]) / 3;
 
         var cars2 = [
-            {model: "Ford" , color: "red", year: 2020},
-            {model: "Toyota" , color: "blue", year: 2019},
-            {model: "Mazda" , color: "green", year: 2021},
+            { model: "Ford", color: "red", year: 2020 },
+            { model: "Toyota", color: "blue", year: 2019 },
+            { model: "Mazda", color: "green", year: 2021 },
         ];
 
         // document.getElementById("msg05").innerHTML += "<br>" + cars2[1].model
@@ -165,9 +191,9 @@
         car.model = "Honda"; // 修改物件的屬性值
         car["color"] = "Yello";
 
-        document.getElementById("msg04").innerText = 
-        "car model: " + car.model + ", color: " + car.model +
-        ". " + car.start() + " " + car.stop();
+        document.getElementById("msg04").innerText =
+            "car model: " + car.model + ", color: " + car.model +
+            ". " + car.start() + " " + car.stop();
 
         // 呼叫函數，並傳入參數
         // showMessage("Hellow");
@@ -188,13 +214,13 @@
 
         var c = 0;
         c = c + 1;
-        c +=1;
+        c += 1;
         c++;
         console.log("c =", c);
 
-        console.log(1==1);
-        console.log(1=="1");
-        console.log(1==="1");
+        console.log(1 == 1);
+        console.log(1 == "1");
+        console.log(1 === "1");
     </script>
 </body>
 
