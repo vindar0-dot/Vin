@@ -66,11 +66,12 @@
             <h3>offset</h3>
             <p>偏移欄可通過 offset-*-* 類來設置</p>
             <div class="row">
-                <div class="col-6 offset-xl-0 col-md-3 offset-md-3 col-sm-4 offset-sm-2"
-                    style="background-color: aquamarine;">a</div>
-                <div class="col-6 col-md-3 col-sm-4" style="background-color: yellow;">b</div>
+                <div class="col-xl-6 offset-xl-0 col-md-3 offset-md-3 col-sm-4 offset-sm-2"
+                    style="background-color: aquamarine">a</div>
+                <div class="col-xl-6 col-md-3 col-sm-4" style="background-color: yellow;">b</div>
             </div>
             <h2>間距</h2>
+            <p>Bootstrap 提供了簡單的間距類工具，可以快速設置元素的外邊距 (margin) 和內邊距 (padding)</p>
             <ul>
                 <li>m - margin 外邊距</li>
                 <li>p - padding 內邊距</li>
@@ -84,18 +85,82 @@
             </ul>
             <div class="row">
                 <div class="col-4 bg-primary text-white p-3 mt-3">內邊距 p-3，外邊距 mt-3</div>
-                <div class="col-4 bg-secondary text-white p- mt-2">內邊距 p-3，外邊距 mt-3</div>
-                <div class="col-4 bg-primary text-white p-3 mt-3">內邊距 p-3，外邊距 mt-3</div>
+                <div class="col-4 bg-secondary text-white p- mt-2">內邊距 p-5 ，外邊距 mt-2</div>
+                <div class="col-4 bg-success text-white px-2 py-2 lg-5 mt-5">內邊距 p-5，外邊距 mt-5</div>
             </div>
-
+            <h2>Display</h2>
             <div class="row">
-
+                <div class="col-12 display-1 bg-warning py3 text-center">
+                    烏龍院
+                </div>
             </div>
-            <div class="row">
-
-
             <h2>color</h2>
-        </div>
+            <p>Bootstrap 提供多種文字顏色類別，可快速設置文字顏色</p>
+            <ul>
+                <li>primary - 重要的色彩</li>
+                <li>secondary - 次要的色彩</li>
+                <li>success - 成功的色彩</li>
+                <li>danger - 危險的色彩</li>
+                <li>warning - 警告的色彩</li>
+                <li></li>
+                <li>light - 淺色系</li>
+                <li>dark - 深色系</li>
+                <li>muted - 次要文字色彩</li>
+            </ul>
+            <div class="table-responsive-sm">
+                <table class="table table-striped border-info">
+                    <tr>
+                        <td class="text-nowrap">primary - 重要的色彩</td>
+                        <td class="text-nowrap">secondary - 次要的色彩</td>
+                        <td class="text-nowrap">success - 成功的色彩</td>
+                    </tr>
+                    <tr>
+                        <td class="text-nowrap">danger - 危險的色彩</td>
+                        <td class="text-nowrap">danger - 警告的色彩</td>
+                        <td class="text-nowrap">info - 資訊的色彩</td>
+                    </tr>
+                </table>
+            </div>
+            <h2>圖片</h2>
+            <p>使用 .img-fluid 類別可以讓圖片在不同裝置上自動調整大小，保持響應式設計</p>
+            <p>可先安裝 「 Simple Placeholder Image 」 外掛，即可輸入 「 place 」 即時產生隨機圖片</p>
+            <p>
+                可使用.rounded 類別來設置圖片的圓角效果，rounded-circle 會將圖片設置為圓形，rounded-5 則會設置較大的圓角
+            </p>
+            <div class="row">
+                <div class="col-md-3">
+                    <img class="img-fluid rounded-circle" src="https://picsum.photos/800/600" alt="Placeholder Image">
+                </div>
+                <div class="col-md-3">
+                    <img class="img-fluid rounded-5" src="https://picsum.photos/810/600" alt="Placeholder Image">
+                </div>
+                <div class="col-md-3">
+                    <img class="img-fluid" src="https://picsum.photos/820/600" alt="Placeholder Image">
+                </div>
+                <div class="col-md-3">
+                    <img class="img-fluid" src="https://picsum.photos/830/600" alt="Placeholder Image">
+                </div>
+                <div class="row py-4">
+                    <div class="col-md-6 text-center bg-secondary rounded-5 p-2">
+                        <img src="https://picsum.photos/100/100" alt="Placeholder Image">
+                    </div>
+                </div>
+                <h2>圖片區</h2>
+                <figure class="figure">
+                    <img src="https://picsum.photos/100/100" class="figure-img img-fluid rounded" alt="" />
+                    <figcaption class="figure-caption text-start">
+                        Some Word
+                    </figcaption>
+                </figure>
+
+
+
+
+
+
+
+
+            </div>
 
 
 

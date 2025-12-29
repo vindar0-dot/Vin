@@ -1,0 +1,652 @@
+  PTC Installation assistant log file
+========= PIM Version: 7.0.12.0 ==========
+週四 七月 10 15:10:36 25
+=======================================
+ Sessioninfo xml file :E:\pim\xml\sessioninfo.xml)
+sessioninfo created
+PimTop-sessioninfo created
+before test communication
+skip test communication
+set platforms
+set languages prop
+ Sessioninfo xml file :E:\pim\xml\creoplatformagent.xml)
+ Sessioninfo xml file :E:\pim\xml\creoplatformagent.xml)
+ Sessioninfo xml file :E:\pim\xml\redistributables.xml)
+ Sessioninfo xml file :E:\pim\xml\redistributables.xml)
+ Sessioninfo xml file :E:\pim\xml\dotnet4.xml)
+ Sessioninfo xml file :E:\pim\xml\dotnet4.xml)
+已載入產品定義檔案: E:\pim\xml\pma.xml。
+ Sessioninfo xml file :E:\pim\xml\creoplatformagent.xml)
+ Sessioninfo xml file :E:\pim\xml\creoplatformagent.xml)
+已載入產品定義檔案: E:\pim\xml\creobase.xml。
+ Sessioninfo xml file :E:\pim\xml\creoplatformagent.xml)
+ Sessioninfo xml file :E:\pim\xml\creoplatformagent.xml)
+ Sessioninfo xml file :E:\pim\xml\redistributables.xml)
+ Sessioninfo xml file :E:\pim\xml\redistributables.xml)
+已載入產品定義檔案: E:\pim\xml\sim.xml。
+ Sessioninfo xml file :E:\pim\xml\creoplatformagent.xml)
+ Sessioninfo xml file :E:\pim\xml\creoplatformagent.xml)
+ Sessioninfo xml file :E:\pim\xml\redistributables.xml)
+ Sessioninfo xml file :E:\pim\xml\redistributables.xml)
+已載入產品定義檔案: E:\pim\xml\dma.xml。
+ Sessioninfo xml file :E:\pim\xml\creoplatformagent.xml)
+ Sessioninfo xml file :E:\pim\xml\creoplatformagent.xml)
+ Sessioninfo xml file :E:\pim\xml\redistributables.xml)
+ Sessioninfo xml file :E:\pim\xml\redistributables.xml)
+已載入產品定義檔案: E:\pim\xml\photorender.xml。
+已載入產品定義檔案: E:\pim\xml\dsm.xml。
+ Sessioninfo xml file :E:\pim\xml\creoplatformagent.xml)
+ Sessioninfo xml file :E:\pim\xml\creoplatformagent.xml)
+ Sessioninfo xml file :E:\pim\xml\redistributables.xml)
+ Sessioninfo xml file :E:\pim\xml\redistributables.xml)
+已載入產品定義檔案: E:\pim\xml\layout.xml。
+ Sessioninfo xml file :E:\pim\xml\creoplatformagent.xml)
+ Sessioninfo xml file :E:\pim\xml\creoplatformagent.xml)
+ Sessioninfo xml file :E:\pim\xml\redistributables.xml)
+ Sessioninfo xml file :E:\pim\xml\redistributables.xml)
+已載入產品定義檔案: E:\pim\xml\optsmdler.xml。
+已載入產品定義檔案: E:\pim\xml\creoviewexpress.xml。
+已載入產品定義檔案: E:\pim\xml\qualityagent.xml。
+已載入產品定義檔案: E:\pim\xml\creothumbnailviewer.xml。
+AddLicenseSource: 0 : C:\Program Files\Windows NT\PTC_D_SSQ.dat
+發現已安裝 Microsoft .NET Framework 4 Client Profile。 
+發現已安裝Microsoft .NET Framework 4。 
+提供瀏覽器和其他服務的 Creo 元件。
+Creo Parametric 需要使用 Microsoft 元件
+提供瀏覽器和其他服務的 Creo 元件。
+提供瀏覽器和其他服務的 Creo 元件。
+提供瀏覽器和其他服務的 Creo 元件。
+提供瀏覽器和其他服務的 Creo 元件。
+提供瀏覽器和其他服務的 Creo 元件。
+提供瀏覽器和其他服務的 Creo 元件。
+安裝根路徑設定為: C:\Program Files\PTC
+提供瀏覽器和其他服務的 Creo 元件。
+Creo Parametric 需要使用 Microsoft 元件
+提供瀏覽器和其他服務的 Creo 元件。
+提供瀏覽器和其他服務的 Creo 元件。
+提供瀏覽器和其他服務的 Creo 元件。
+提供瀏覽器和其他服務的 Creo 元件。
+提供瀏覽器和其他服務的 Creo 元件。
+提供瀏覽器和其他服務的 Creo 元件。
+安裝根路徑設定為: V:\Program Files\PTC
+正在啟動 Creo 7 Platform Services 的安裝。
+正在啟動 Visual C++ Redistributables 的安裝。
+正在啟動 Creo Common Files 的安裝。
+正在啟動 Creo Parametric 的安裝。
+正在啟動 Creo Simulate 的安裝。
+正在啟動 Creo Direct 的安裝。
+正在啟動 Creo Render Studio 的安裝。
+正在啟動 Creo Distributed Services Manager 的安裝。
+正在啟動 Creo Layout 的安裝。
+正在啟動 Creo Options Modeler 的安裝。
+正在啟動 Creo View Express 的安裝。
+正在啟動 Diagnostic Tools 的安裝。
+正在啟動 Creo Thumbnail Viewer 的安裝。
+設定 PTC Creo Distributed Services Manager Version 7.0.12.0 登錄中的解除安裝資訊。
+已將解除安裝資訊輸入到 PTC Creo Distributed Services Manager Version 7.0.12.0 的登錄中。
+將封存檔案從 E:\ptcsh0\ptc89.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Distributed Services Manager。
+將封存檔案從 E:\ptcsh0\ptc90.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Distributed Services Manager。
+將封存檔案從 E:\ptcsh0\ptc91.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Distributed Services Manager。
+將封存檔案從 E:\ptcsh0\ptc93.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Distributed Services Manager。
+將封存檔案從 E:\ptcsh0\ptc109.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Distributed Services Manager。
+將封存檔案從 E:\ptcsh0\ptc112.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Distributed Services Manager。
+將封存檔案從 E:\ptcsh0\ptc113.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Distributed Services Manager。
+將封存檔案從 E:\ptcsh0\ptc178.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Distributed Services Manager。
+將封存檔案從 E:\ptcsh0\ptc179.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Distributed Services Manager。
+將封存檔案從 E:\ptcsh0\ptc180.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Distributed Services Manager。
+將封存檔案從 E:\ptcsh0\ptc187.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Distributed Services Manager。
+將封存檔案從 E:\ptcsh0\ptc188.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Distributed Services Manager。
+將封存檔案從 E:\ptcsh0\ptc223.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Distributed Services Manager。
+將封存檔案從 E:\ptcsh0\ptc224.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Distributed Services Manager。
+將封存檔案從 E:\ptcsh0\ptc232.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Distributed Services Manager。
+ Sessioninfo xml file :E:\pim\xml\creo_templates.xml)
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Distributed Services Manager/bin/ptchostid.bat。
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Distributed Services Manager/bin/ptcflush.bat。
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Distributed Services Manager/bin/ptcstatus.bat。
+ Sessioninfo xml file :E:\pim\xml\psf_templates.xml)
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Distributed Services Manager/bin/ptcdsm.psf。
+建立開始選單程式資料夾捷徑 Creo Distributed Services Manager 7.0.12.0。
+建立桌面捷徑 Creo Distributed Services Manager 7.0.12.0。
+建立開始選單捷徑 uninstall。
+建立開始選單捷徑 reconfigure。
+"E:\install\addon\creosvcs_64.exe" 的指令行執行傳回 0 的退出碼。
+將封存檔案從 E:\ptcsh0\ptc0.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Common Files。
+將封存檔案從 E:\ptcsh0\ptc1.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Common Files。
+將封存檔案從 E:\ptcsh0\ptc2.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Common Files。
+將封存檔案從 E:\ptcsh0\ptc4.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Common Files。
+將封存檔案從 E:\ptcsh0\ptc8.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Common Files。
+將封存檔案從 E:\ptcsh0\ptc9.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc10.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Common Files。
+將封存檔案從 E:\ptcsh0\ptc12.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Common Files。
+將封存檔案從 E:\ptcsh0\ptc21.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc22.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Common Files。
+將封存檔案從 E:\ptcsh0\ptc23.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Common Files。
+將封存檔案從 E:\ptcsh0\ptc24.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Common Files。
+將封存檔案從 E:\ptcsh0\ptc25.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc27.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc36.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Common Files。
+將封存檔案從 E:\ptcsh0\ptc38.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Common Files。
+將封存檔案從 E:\ptcsh0\ptc47.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc49.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc58.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+"E:\ptcsh0\2012vcredist_x64.exe" 的指令行執行傳回 0 的退出碼。
+將封存檔案從 E:\ptcsh0\ptc60.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc69.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Common Files。
+將封存檔案從 E:\ptcsh0\ptc70.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Common Files。
+"E:\ptcsh0\2012vcredist_x86.exe" 的指令行執行傳回 0 的退出碼。
+將封存檔案從 E:\ptcsh0\ptc71.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc72.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+"E:\ptcsh0\2013vcredist_x64.exe" 的指令行執行傳回 0 的退出碼。
+將封存檔案從 E:\ptcsh0\ptc73.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Common Files。
+"E:\ptcsh0\2013vcredist_x86.exe" 的指令行執行傳回 0 的退出碼。
+將封存檔案從 E:\ptcsh0\ptc74.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Common Files。
+"E:\ptcsh0\2019vcredist_x64.exe" 的指令行執行傳回 1638 的退出碼。
+"E:\ptcsh0\2019vcredist_x86.exe" 的指令行執行傳回 1638 的退出碼。
+不符合 Creo Parametric -- Y -- 的先決條件。
+不符合 Creo Simulate -- Y -- 的先決條件。
+不符合 Creo Direct -- Y -- 的先決條件。
+不符合 Creo Render Studio -- Y -- 的先決條件。
+不符合 Creo Layout -- Y -- 的先決條件。
+不符合 Creo Options Modeler -- Y -- 的先決條件。
+將封存檔案從 E:\ptcsh0\ptc75.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc76.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Common Files。
+"E:\install\addon\pvx32_64\CreoSetup.exe" 的指令行執行傳回 0 的退出碼。
+將封存檔案從 E:\ptcsh0\ptc77.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+"msiexec.exe /qn /I "E:\install\addon\qualityagent_64.msi" INSTALLDIR="V:\Program Files\PTC\DiagnosticTools"" 的指令行執行傳回 0 的退出碼。
+"msiexec.exe /qn /I "E:\install\addon\Thumbviewer_32_64.msi"" 的指令行執行傳回 0 的退出碼。
+將封存檔案從 E:\ptcsh0\ptc79.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Common Files。
+將封存檔案從 E:\ptcsh0\ptc80.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc102.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc105.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Common Files。
+將封存檔案從 E:\ptcsh0\ptc106.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc107.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Common Files。
+將封存檔案從 E:\ptcsh0\ptc108.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Common Files。
+將封存檔案從 E:\ptcsh0\ptc112.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc113.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc115.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Common Files。
+將封存檔案從 E:\ptcsh0\ptc129.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Common Files。
+將封存檔案從 E:\ptcsh0\ptc131.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Common Files。
+將封存檔案從 E:\ptcsh0\ptc140.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Common Files。
+將封存檔案從 E:\ptcsh0\ptc141.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Common Files。
+將封存檔案從 E:\ptcsh0\ptc143.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Common Files。
+將封存檔案從 E:\ptcsh0\ptc152.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Common Files。
+將封存檔案從 E:\ptcsh0\ptc178.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Common Files。
+將封存檔案從 E:\ptcsh0\ptc187.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Common Files。
+將封存檔案從 E:\ptcsh0\ptc223.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Common Files。
+將封存檔案從 E:\ptcsh0\ptc225.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Common Files。
+將封存檔案從 E:\ptcsh0\ptc232.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc244.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Common Files。
+將封存檔案從 E:\ptcsh0\ptc252.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Common Files。
+將封存檔案從 E:\ptcsh0\ptc288.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc290.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Common Files。
+將封存檔案從 E:\ptcsh0\ptc309.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Common Files。
+將封存檔案從 E:\ptcsh0\ptc311.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Common Files。
+將封存檔案從 E:\ptcsh0\ptc320.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Common Files。
+將封存檔案從 E:\ptcsh0\ptc369.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Common Files。
+已建立預設值為 phwFile 的登錄機碼 [HKCR].phw。
+已建立預設值為 PTC Helper App File 的登錄機碼 [HKCR]phwFile。
+已建立預設值為 [ICON],0 的登錄機碼 [HKCR]phwFile\DefaultIcon。
+已建立登錄機碼 [HKCR]phwFile\Shell。
+已建立預設值為 [OpenWith] 的登錄機碼 [HKCR]phwFile\Shell\Open。
+已建立預設值為 "[LP]/[THIS_ARCH]/obj/creo_openwith.exe" "%1" 的登錄機碼 [HKCR]phwFile\Shell\Open\Command。
+ Sessioninfo xml file :E:\pim\xml\creo_templates.xml)
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Common Files/x86e_win64/obj/system_monitor.bat。
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/InstallManager/silent_Group_Uninstall.bat。
+設定 PTC Creo Layout Version 7.0.12.0 登錄中的解除安裝資訊。
+將封存檔案從 E:\ptcsh0\ptc87.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Layout。
+已將解除安裝資訊輸入到 PTC Creo Layout Version 7.0.12.0 的登錄中。
+將封存檔案從 E:\ptcsh0\ptc90.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Layout。
+將封存檔案從 E:\ptcsh0\ptc91.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Layout。
+將封存檔案從 E:\ptcsh0\ptc93.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Layout。
+將封存檔案從 E:\ptcsh0\ptc109.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Layout。
+已修改預設值為 psfFile 的現有登錄機碼 [HKCR].psf
+已修改預設值為 asmFile 的現有登錄機碼 [HKCR].asm
+已建立預設值為 cemFile 的登錄機碼 [HKCR].cem。
+已修改預設值為 prtFile 的現有登錄機碼 [HKCR].prt
+已修改預設值為 Creo Versioned File 的現有登錄機碼 [HKCR]creoFile
+已修改預設值為 PTC.Creo_Layout.[VERSION] 的現有登錄機碼 [HKCR]creoFile
+已建立預設值為 [ICON],0 的登錄機碼 [HKCR]creoFile\DefaultIcon。
+已建立登錄機碼 [HKCR]creoFile\Shell。
+已建立預設值為 [OpenWith] 的登錄機碼 [HKCR]creoFile\Shell\Open。
+已建立預設值為 "[LP]/bin/layout.exe" "%1" 的登錄機碼 [HKCR]creoFile\Shell\Open\Command。
+已修改預設值為 PTC Startup File 的現有登錄機碼 [HKCR]psfFile
+已修改預設值為 [ICON],0 的現有登錄機碼 [HKCR]psfFile\DefaultIcon
+發現登錄機碼 [HKCR]psfFile\Shell 已經存在。
+已建立預設值為 [OpenWith] 的登錄機碼 [HKCR]psfFile\Shell\Open。
+已建立預設值為 "[LP]/bin/layout.exe" "%1" 的登錄機碼 [HKCR]psfFile\Shell\Open\Command。
+已修改預設值為 Creo Assembly File 的現有登錄機碼 [HKCR]asmFile
+已修改預設值為 PTC.Creo_Layout.[VERSION] 的現有登錄機碼 [HKCR]asmFile
+已修改預設值為 [ICON],0 的現有登錄機碼 [HKCR]asmFile\DefaultIcon
+發現登錄機碼 [HKCR]asmFile\Shell 已經存在。
+已建立預設值為 [OpenWith] 的登錄機碼 [HKCR]asmFile\Shell\Open。
+已建立預設值為 "[LP]/bin/layout.exe" "%1" 的登錄機碼 [HKCR]asmFile\Shell\Open\Command。
+已建立預設值為 Creo Layout File 的登錄機碼 [HKCR]cemFile。
+已修改預設值為 PTC.Creo_Layout.[VERSION] 的現有登錄機碼 [HKCR]cemFile
+已建立預設值為 [ICON],0 的登錄機碼 [HKCR]cemFile\DefaultIcon。
+已建立登錄機碼 [HKCR]cemFile\Shell。
+已建立預設值為 [OpenWith] 的登錄機碼 [HKCR]cemFile\Shell\Open。
+已建立預設值為 "[LP]/bin/layout.exe" "%1" 的登錄機碼 [HKCR]cemFile\Shell\Open\Command。
+已修改預設值為 Creo Part File 的現有登錄機碼 [HKCR]prtFile
+已修改預設值為 PTC.Creo_Layout.[VERSION] 的現有登錄機碼 [HKCR]prtFile
+已修改預設值為 [ICON],0 的現有登錄機碼 [HKCR]prtFile\DefaultIcon
+發現登錄機碼 [HKCR]prtFile\Shell 已經存在。
+已建立預設值為 [OpenWith] 的登錄機碼 [HKCR]prtFile\Shell\Open。
+已建立預設值為 "[LP]/bin/layout.exe" "%1" 的登錄機碼 [HKCR]prtFile\Shell\Open\Command。
+已建立預設值為 PTC.Creo_Layout.[VERSION] 的登錄機碼 [HKCR]Applications\layout.exe。
+已建立登錄機碼 [HKCR]Applications\layout.exe\Shell。
+已建立預設值為 [OpenWith] 的登錄機碼 [HKCR]Applications\layout.exe\Shell\Open。
+已建立預設值為 "[LP]/bin/layout.exe" "%1" 的登錄機碼 [HKCR]Applications\layout.exe\Shell\Open\Command。
+ Sessioninfo xml file :E:\pim\xml\creo_templates.xml)
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Layout/bin/layout_borrow.bat。
+ Sessioninfo xml file :E:\pim\xml\psf_templates.xml)
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Layout/bin/layout.psf。
+建立開始選單程式資料夾捷徑 Creo Layout 7.0.12.0。
+建立桌面捷徑 Creo Layout 7.0.12.0。
+建立開始選單捷徑 uninstall。
+建立開始選單捷徑 reconfigure。
+設定 PTC Creo Options Modeler Version 7.0.12.0 登錄中的解除安裝資訊。
+將封存檔案從 E:\ptcsh0\ptc88.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Options Modeler。
+已將解除安裝資訊輸入到 PTC Creo Options Modeler Version 7.0.12.0 的登錄中。
+將封存檔案從 E:\ptcsh0\ptc90.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Options Modeler。
+將封存檔案從 E:\ptcsh0\ptc91.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Options Modeler。
+將封存檔案從 E:\ptcsh0\ptc93.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Options Modeler。
+將封存檔案從 E:\ptcsh0\ptc109.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Options Modeler。
+已修改預設值為 psfFile 的現有登錄機碼 [HKCR].psf
+已修改預設值為 asmFile 的現有登錄機碼 [HKCR].asm
+已修改預設值為 prtFile 的現有登錄機碼 [HKCR].prt
+已修改預設值為 Creo Versioned File 的現有登錄機碼 [HKCR]creoFile
+已修改預設值為 PTC.Creo_Options_Modeler.[VERSION] 的現有登錄機碼 [HKCR]creoFile
+已修改預設值為 [ICON],0 的現有登錄機碼 [HKCR]creoFile\DefaultIcon
+發現登錄機碼 [HKCR]creoFile\Shell 已經存在。
+已修改預設值為 [OpenWith] 的現有登錄機碼 [HKCR]creoFile\Shell\Open
+已修改預設值為 "[LP]/bin/optionsmodeler.exe" "%1" 的現有登錄機碼 [HKCR]creoFile\Shell\Open\Command
+已修改預設值為 PTC Startup File 的現有登錄機碼 [HKCR]psfFile
+已修改預設值為 [ICON],0 的現有登錄機碼 [HKCR]psfFile\DefaultIcon
+發現登錄機碼 [HKCR]psfFile\Shell 已經存在。
+已修改預設值為 [OpenWith] 的現有登錄機碼 [HKCR]psfFile\Shell\Open
+已修改預設值為 "[LP]/bin/optionsmodeler.exe" "%1" 的現有登錄機碼 [HKCR]psfFile\Shell\Open\Command
+已修改預設值為 Creo Options Modeler File 的現有登錄機碼 [HKCR]asmFile
+已修改預設值為 PTC.Creo_Options_Modeler.[VERSION] 的現有登錄機碼 [HKCR]asmFile
+已修改預設值為 [ICON],0 的現有登錄機碼 [HKCR]asmFile\DefaultIcon
+發現登錄機碼 [HKCR]asmFile\Shell 已經存在。
+已修改預設值為 [OpenWith] 的現有登錄機碼 [HKCR]asmFile\Shell\Open
+已修改預設值為 "[LP]/bin/optionsmodeler.exe" "%1" 的現有登錄機碼 [HKCR]asmFile\Shell\Open\Command
+已建立預設值為 PTC.Creo_Options_Modeler.[VERSION] 的登錄機碼 [HKCR]Applications\optionsmodeler.exe。
+已建立登錄機碼 [HKCR]Applications\optionsmodeler.exe\Shell。
+已建立預設值為 [OpenWith] 的登錄機碼 [HKCR]Applications\optionsmodeler.exe\Shell\Open。
+已建立預設值為 "[LP]/bin/optionsmodeler.exe" "%1" 的登錄機碼 [HKCR]Applications\optionsmodeler.exe\Shell\Open\Command。
+ Sessioninfo xml file :E:\pim\xml\creo_templates.xml)
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Options Modeler/bin/optionsmodeler_borrow.bat。
+ Sessioninfo xml file :E:\pim\xml\psf_templates.xml)
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Options Modeler/bin/optionsmodeler.psf。
+建立開始選單程式資料夾捷徑 Creo Options Modeler 7.0.12.0。
+建立桌面捷徑 Creo Options Modeler 7.0.12.0。
+建立開始選單捷徑 uninstall。
+建立開始選單捷徑 reconfigure。
+設定 PTC Creo Parametric Version 7.0.12.0 登錄中的解除安裝資訊。
+將封存檔案從 E:\ptcsh0\ptc78.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+已將解除安裝資訊輸入到 PTC Creo Parametric Version 7.0.12.0 的登錄中。
+將封存檔案從 E:\ptcsh0\ptc82.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Parametric。
+將封存檔案從 E:\ptcsh0\ptc85.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Parametric。
+將封存檔案從 E:\ptcsh0\ptc90.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Parametric。
+將封存檔案從 E:\ptcsh0\ptc91.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Parametric。
+將封存檔案從 E:\ptcsh0\ptc93.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Parametric。
+將封存檔案從 E:\ptcsh0\ptc103.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc109.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Parametric。
+將封存檔案從 E:\ptcsh0\ptc114.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc116.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc123.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc126.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc127.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc128.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc171.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc176.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc181.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc182.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc207.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc208.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc226.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc233.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc240.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc255.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc258.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc259.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc261.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc283.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc284.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc291.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc292.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc321.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc322.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc324.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc332.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc334.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc343.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc344.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc345.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc346.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc348.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc349.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc350.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc352.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc360.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc378.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+已修改預設值為 psfFile 的現有登錄機碼 [HKCR].psf
+已修改預設值為 phaFile 的現有登錄機碼 [HKCR].pha
+已修改預設值為 asmFile 的現有登錄機碼 [HKCR].asm
+已修改預設值為 dgmFile 的現有登錄機碼 [HKCR].dgm
+已修改預設值為 drwFile 的現有登錄機碼 [HKCR].drw
+已修改預設值為 frmFile 的現有登錄機碼 [HKCR].frm
+已修改預設值為 layFile 的現有登錄機碼 [HKCR].lay
+已修改預設值為 mfgFile 的現有登錄機碼 [HKCR].mfg
+已修改預設值為 mrkFile 的現有登錄機碼 [HKCR].mrk
+已修改預設值為 prtFile 的現有登錄機碼 [HKCR].prt
+已修改預設值為 secFile 的現有登錄機碼 [HKCR].sec
+已修改預設值為 Creo Versioned File 的現有登錄機碼 [HKCR]creoFile
+已修改預設值為 PTC.Creo_Parametric.[VERSION] 的現有登錄機碼 [HKCR]creoFile
+已修改預設值為 [ICON],0 的現有登錄機碼 [HKCR]creoFile\DefaultIcon
+發現登錄機碼 [HKCR]creoFile\Shell 已經存在。
+已修改預設值為 [OpenWith] 的現有登錄機碼 [HKCR]creoFile\Shell\Open
+已修改預設值為 "[LP]/bin/parametric.exe" "%1" 的現有登錄機碼 [HKCR]creoFile\Shell\Open\Command
+已修改預設值為 PTC Startup File 的現有登錄機碼 [HKCR]psfFile
+已修改預設值為 [ICON],0 的現有登錄機碼 [HKCR]psfFile\DefaultIcon
+發現登錄機碼 [HKCR]psfFile\Shell 已經存在。
+已修改預設值為 [OpenWith] 的現有登錄機碼 [HKCR]psfFile\Shell\Open
+已修改預設值為 "[LP]/bin/parametric.exe" "%1" 的現有登錄機碼 [HKCR]psfFile\Shell\Open\Command
+已修改預設值為 PTC Helper App File 的現有登錄機碼 [HKCR]phaFile
+已修改預設值為 [ICON],0 的現有登錄機碼 [HKCR]phaFile\DefaultIcon
+發現登錄機碼 [HKCR]phaFile\Shell 已經存在。
+已建立預設值為 [OpenWith] 的登錄機碼 [HKCR]phaFile\Shell\Open。
+已建立預設值為 "[LP]/bin/parametric.exe" "%1" 的登錄機碼 [HKCR]phaFile\Shell\Open\Command。
+已修改預設值為 Creo Assembly File 的現有登錄機碼 [HKCR]asmFile
+已修改預設值為 PTC.Creo_Parametric.[VERSION] 的現有登錄機碼 [HKCR]asmFile
+已修改預設值為 [ICON],0 的現有登錄機碼 [HKCR]asmFile\DefaultIcon
+發現登錄機碼 [HKCR]asmFile\Shell 已經存在。
+已修改預設值為 [OpenWith] 的現有登錄機碼 [HKCR]asmFile\Shell\Open
+已修改預設值為 "[LP]/bin/parametric.exe" "%1" 的現有登錄機碼 [HKCR]asmFile\Shell\Open\Command
+已修改預設值為 Creo Diagram File 的現有登錄機碼 [HKCR]dgmFile
+已修改預設值為 PTC.Creo_Parametric.[VERSION] 的現有登錄機碼 [HKCR]dgmFile
+已修改預設值為 [ICON],0 的現有登錄機碼 [HKCR]dgmFile\DefaultIcon
+發現登錄機碼 [HKCR]dgmFile\Shell 已經存在。
+已建立預設值為 [OpenWith] 的登錄機碼 [HKCR]dgmFile\Shell\Open。
+已建立預設值為 "[LP]/bin/parametric.exe" "%1" 的登錄機碼 [HKCR]dgmFile\Shell\Open\Command。
+已修改預設值為 Creo Drawing File 的現有登錄機碼 [HKCR]drwFile
+已修改預設值為 PTC.Creo_Parametric.[VERSION] 的現有登錄機碼 [HKCR]drwFile
+已修改預設值為 [ICON],0 的現有登錄機碼 [HKCR]drwFile\DefaultIcon
+發現登錄機碼 [HKCR]drwFile\Shell 已經存在。
+已建立預設值為 [OpenWith] 的登錄機碼 [HKCR]drwFile\Shell\Open。
+已建立預設值為 "[LP]/bin/parametric.exe" "%1" 的登錄機碼 [HKCR]drwFile\Shell\Open\Command。
+已修改預設值為 Creo Format File 的現有登錄機碼 [HKCR]frmFile
+已修改預設值為 PTC.Creo_Parametric.[VERSION] 的現有登錄機碼 [HKCR]frmFile
+已修改預設值為 [ICON],0 的現有登錄機碼 [HKCR]frmFile\DefaultIcon
+發現登錄機碼 [HKCR]frmFile\Shell 已經存在。
+已建立預設值為 [OpenWith] 的登錄機碼 [HKCR]frmFile\Shell\Open。
+已建立預設值為 "[LP]/bin/parametric.exe" "%1" 的登錄機碼 [HKCR]frmFile\Shell\Open\Command。
+已修改預設值為 Creo Notebook File 的現有登錄機碼 [HKCR]layFile
+已修改預設值為 PTC.Creo_Parametric.[VERSION] 的現有登錄機碼 [HKCR]layFile
+已修改預設值為 [ICON],0 的現有登錄機碼 [HKCR]layFile\DefaultIcon
+發現登錄機碼 [HKCR]layFile\Shell 已經存在。
+已建立預設值為 [OpenWith] 的登錄機碼 [HKCR]layFile\Shell\Open。
+已建立預設值為 "[LP]/bin/parametric.exe" "%1" 的登錄機碼 [HKCR]layFile\Shell\Open\Command。
+已修改預設值為 Creo Manufacturing File 的現有登錄機碼 [HKCR]mfgFile
+已修改預設值為 PTC.Creo_Parametric.[VERSION] 的現有登錄機碼 [HKCR]mfgFile
+已修改預設值為 [ICON],0 的現有登錄機碼 [HKCR]mfgFile\DefaultIcon
+發現登錄機碼 [HKCR]mfgFile\Shell 已經存在。
+已建立預設值為 [OpenWith] 的登錄機碼 [HKCR]mfgFile\Shell\Open。
+已建立預設值為 "[LP]/bin/parametric.exe" "%1" 的登錄機碼 [HKCR]mfgFile\Shell\Open\Command。
+已修改預設值為 Creo Markup File 的現有登錄機碼 [HKCR]mrkFile
+已修改預設值為 PTC.Creo_Parametric.[VERSION] 的現有登錄機碼 [HKCR]mrkFile
+已修改預設值為 [ICON],0 的現有登錄機碼 [HKCR]mrkFile\DefaultIcon
+發現登錄機碼 [HKCR]mrkFile\Shell 已經存在。
+已建立預設值為 [OpenWith] 的登錄機碼 [HKCR]mrkFile\Shell\Open。
+已建立預設值為 "[LP]/bin/parametric.exe" "%1" 的登錄機碼 [HKCR]mrkFile\Shell\Open\Command。
+已修改預設值為 Creo Part File 的現有登錄機碼 [HKCR]prtFile
+已修改預設值為 PTC.Creo_Parametric.[VERSION] 的現有登錄機碼 [HKCR]prtFile
+已修改預設值為 [ICON],0 的現有登錄機碼 [HKCR]prtFile\DefaultIcon
+發現登錄機碼 [HKCR]prtFile\Shell 已經存在。
+已修改預設值為 [OpenWith] 的現有登錄機碼 [HKCR]prtFile\Shell\Open
+已修改預設值為 "[LP]/bin/parametric.exe" "%1" 的現有登錄機碼 [HKCR]prtFile\Shell\Open\Command
+已修改預設值為 Creo Section File 的現有登錄機碼 [HKCR]secFile
+已修改預設值為 PTC.Creo_Parametric.[VERSION] 的現有登錄機碼 [HKCR]secFile
+已修改預設值為 [ICON],0 的現有登錄機碼 [HKCR]secFile\DefaultIcon
+發現登錄機碼 [HKCR]secFile\Shell 已經存在。
+已建立預設值為 [OpenWith] 的登錄機碼 [HKCR]secFile\Shell\Open。
+已建立預設值為 "[LP]/bin/parametric.exe" "%1" 的登錄機碼 [HKCR]secFile\Shell\Open\Command。
+已建立預設值為 PTC.Creo_Parametric.[VERSION] 的登錄機碼 [HKCR]Applications\parametric.exe。
+已建立登錄機碼 [HKCR]Applications\parametric.exe\Shell。
+已建立預設值為 [OpenWith] 的登錄機碼 [HKCR]Applications\parametric.exe\Shell\Open。
+已建立預設值為 "[LP]/bin/parametric.exe" "%1" 的登錄機碼 [HKCR]Applications\parametric.exe\Shell\Open\Command。
+ Sessioninfo xml file :E:\pim\xml\creo_templates.xml)
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Parametric/bin/ptchostid.bat。
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Parametric/bin/ptcflush.bat。
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Parametric/bin/ptcstatus.bat。
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Parametric/bin/convert_image.bat。
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Parametric/bin/dcadsetup.bat。
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Parametric/bin/dcadshutdown.bat。
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Parametric/bin/parametric_borrow.bat。
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Parametric/bin/pro_mcs_comp.bat。
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Parametric/bin/pro_ncl_cvt.bat。
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Parametric/bin/procvtutil.bat。
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Parametric/bin/propostg.bat。
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Parametric/bin/propostl.bat。
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Parametric/bin/propostq.bat。
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Parametric/bin/protab.bat。
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Parametric/bin/protk_unlock.bat。
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Parametric/bin/ptcborrow.bat。
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Parametric/bin/purge.bat。
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Parametric/bin/modelcheck.bat。
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Parametric/bin/progpostg.bat。
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Parametric/bin/progpostl.bat。
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Parametric/bin/progpostq.bat。
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Parametric/bin/ptcdbatch.bat。
+設定 PTC Creo Simulate Version 7.0.12.0 登錄中的解除安裝資訊。
+將封存檔案從 E:\ptcsh0\ptc84.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Simulate。
+已將解除安裝資訊輸入到 PTC Creo Simulate Version 7.0.12.0 的登錄中。
+ Sessioninfo xml file :E:\pim\xml\psf_templates.xml)
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Parametric/bin/parametric.psf。
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Parametric/bin/cocreatesim.psf。
+將封存檔案從 E:\ptcsh0\ptc85.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Simulate。
+將封存檔案從 E:\ptcsh0\ptc90.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Simulate。
+將封存檔案從 E:\ptcsh0\ptc91.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Simulate。
+將封存檔案從 E:\ptcsh0\ptc109.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Simulate。
+將封存檔案從 E:\ptcsh0\ptc153.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc154.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc162.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc163.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+建立開始選單程式資料夾捷徑 Creo Parametric 7.0.12.0。
+建立桌面捷徑 Creo Parametric 7.0.12.0。
+建立開始選單程式資料夾捷徑 Creo Distributed Batch 7.0.12.0。
+建立桌面捷徑 Creo Distributed Batch 7.0.12.0。
+建立開始選單程式資料夾捷徑 Creo Modelcheck 7.0.12.0。
+建立桌面捷徑 Creo Modelcheck 7.0.12.0。
+建立開始選單捷徑 uninstall。
+建立開始選單捷徑 reconfigure。
+將封存檔案從 E:\ptcsh0\ptc164.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc292.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+已修改預設值為 psfFile 的現有登錄機碼 [HKCR].psf
+已修改預設值為 asmFile 的現有登錄機碼 [HKCR].asm
+已修改預設值為 prtFile 的現有登錄機碼 [HKCR].prt
+已修改預設值為 Creo Versioned File 的現有登錄機碼 [HKCR]creoFile
+已修改預設值為 PTC.Creo_Simulate.[VERSION] 的現有登錄機碼 [HKCR]creoFile
+已修改預設值為 [ICON],0 的現有登錄機碼 [HKCR]creoFile\DefaultIcon
+發現登錄機碼 [HKCR]creoFile\Shell 已經存在。
+已修改預設值為 [OpenWith] 的現有登錄機碼 [HKCR]creoFile\Shell\Open
+已修改預設值為 "[LP]/bin/simulate.exe" "%1" 的現有登錄機碼 [HKCR]creoFile\Shell\Open\Command
+已修改預設值為 PTC Startup File 的現有登錄機碼 [HKCR]psfFile
+已修改預設值為 [ICON],0 的現有登錄機碼 [HKCR]psfFile\DefaultIcon
+已修改預設值為 [OpenWith] 的現有登錄機碼 [HKCR]psfFile\Shell\Open
+已修改預設值為 "[LP]/bin/simulate.exe" "%1" 的現有登錄機碼 [HKCR]psfFile\Shell\Open\Command
+已修改預設值為 Creo Assembly File 的現有登錄機碼 [HKCR]asmFile
+已修改預設值為 PTC.Creo_Simulate.[VERSION] 的現有登錄機碼 [HKCR]asmFile
+已修改預設值為 [ICON],0 的現有登錄機碼 [HKCR]asmFile\DefaultIcon
+已修改預設值為 [OpenWith] 的現有登錄機碼 [HKCR]asmFile\Shell\Open
+已修改預設值為 "[LP]/bin/simulate.exe" "%1" 的現有登錄機碼 [HKCR]asmFile\Shell\Open\Command
+已修改預設值為 Creo Part File 的現有登錄機碼 [HKCR]prtFile
+已修改預設值為 PTC.Creo_Simulate.[VERSION] 的現有登錄機碼 [HKCR]prtFile
+已修改預設值為 [ICON],0 的現有登錄機碼 [HKCR]prtFile\DefaultIcon
+已修改預設值為 [OpenWith] 的現有登錄機碼 [HKCR]prtFile\Shell\Open
+已修改預設值為 "[LP]/bin/simulate.exe" "%1" 的現有登錄機碼 [HKCR]prtFile\Shell\Open\Command
+已建立預設值為 PTC.Creo_Simulate.[VERSION] 的登錄機碼 [HKCR]Applications\simulate.exe。
+已建立登錄機碼 [HKCR]Applications\simulate.exe\Shell。
+已建立預設值為 [OpenWith] 的登錄機碼 [HKCR]Applications\simulate.exe\Shell\Open。
+已建立預設值為 "[LP]/bin/simulate.exe" "%1" 的登錄機碼 [HKCR]Applications\simulate.exe\Shell\Open\Command。
+設定 PTC Creo Direct Version 7.0.12.0 登錄中的解除安裝資訊。
+將封存檔案從 E:\ptcsh0\ptc83.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Direct。
+已將解除安裝資訊輸入到 PTC Creo Direct Version 7.0.12.0 的登錄中。
+ Sessioninfo xml file :E:\pim\xml\creo_templates.xml)
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Simulate/bin/convert_image.bat。
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Simulate/bin/simulate_borrow.bat。
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Common Files/mech/install/nt/mech_lmlicfile.bat。
+將封存檔案從 E:\ptcsh0\ptc90.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Direct。
+將封存檔案從 E:\ptcsh0\ptc91.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Direct。
+將封存檔案從 E:\ptcsh0\ptc93.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Direct。
+將封存檔案從 E:\ptcsh0\ptc109.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\Direct。
+將封存檔案從 E:\ptcsh0\ptc292.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+ Sessioninfo xml file :E:\pim\xml\psf_templates.xml)
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Simulate/bin/simulate.psf。
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Simulate/bin/cocreatesim.psf。
+建立開始選單程式資料夾捷徑 Creo Simulate 7.0.12.0。
+建立桌面捷徑 Creo Simulate 7.0.12.0。
+建立開始選單捷徑 uninstall。
+建立開始選單捷徑 reconfigure。
+已修改預設值為 psfFile 的現有登錄機碼 [HKCR].psf
+已修改預設值為 asmFile 的現有登錄機碼 [HKCR].asm
+已修改預設值為 prtFile 的現有登錄機碼 [HKCR].prt
+已修改預設值為 Creo Versioned File 的現有登錄機碼 [HKCR]creoFile
+已修改預設值為 PTC.Creo_Direct.[VERSION] 的現有登錄機碼 [HKCR]creoFile
+已修改預設值為 [ICON],0 的現有登錄機碼 [HKCR]creoFile\DefaultIcon
+發現登錄機碼 [HKCR]creoFile\Shell 已經存在。
+已修改預設值為 [OpenWith] 的現有登錄機碼 [HKCR]creoFile\Shell\Open
+已修改預設值為 "[LP]/bin/direct.exe" "%1" 的現有登錄機碼 [HKCR]creoFile\Shell\Open\Command
+已修改預設值為 PTC Startup File 的現有登錄機碼 [HKCR]psfFile
+已修改預設值為 [ICON],0 的現有登錄機碼 [HKCR]psfFile\DefaultIcon
+發現登錄機碼 [HKCR]psfFile\Shell 已經存在。
+已修改預設值為 [OpenWith] 的現有登錄機碼 [HKCR]psfFile\Shell\Open
+已修改預設值為 "[LP]/bin/direct.exe" "%1" 的現有登錄機碼 [HKCR]psfFile\Shell\Open\Command
+已修改預設值為 Creo Assembly File 的現有登錄機碼 [HKCR]asmFile
+已修改預設值為 PTC.Creo_Direct.[VERSION] 的現有登錄機碼 [HKCR]asmFile
+已修改預設值為 [ICON],0 的現有登錄機碼 [HKCR]asmFile\DefaultIcon
+發現登錄機碼 [HKCR]asmFile\Shell 已經存在。
+已修改預設值為 [OpenWith] 的現有登錄機碼 [HKCR]asmFile\Shell\Open
+已修改預設值為 "[LP]/bin/direct.exe" "%1" 的現有登錄機碼 [HKCR]asmFile\Shell\Open\Command
+已修改預設值為 Creo Part File 的現有登錄機碼 [HKCR]prtFile
+已修改預設值為 PTC.Creo_Direct.[VERSION] 的現有登錄機碼 [HKCR]prtFile
+已修改預設值為 [ICON],0 的現有登錄機碼 [HKCR]prtFile\DefaultIcon
+發現登錄機碼 [HKCR]prtFile\Shell 已經存在。
+已修改預設值為 [OpenWith] 的現有登錄機碼 [HKCR]prtFile\Shell\Open
+已修改預設值為 "[LP]/bin/direct.exe" "%1" 的現有登錄機碼 [HKCR]prtFile\Shell\Open\Command
+已建立預設值為 PTC.Creo_Direct.[VERSION] 的登錄機碼 [HKCR]Applications\direct.exe。
+已建立登錄機碼 [HKCR]Applications\direct.exe\Shell。
+已建立預設值為 [OpenWith] 的登錄機碼 [HKCR]Applications\direct.exe\Shell\Open。
+已建立預設值為 "[LP]/bin/direct.exe" "%1" 的登錄機碼 [HKCR]Applications\direct.exe\Shell\Open\Command。
+ Sessioninfo xml file :E:\pim\xml\creo_templates.xml)
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Direct/bin/direct_borrow.bat。
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Direct/bin/protk_unlock.bat。
+設定 PTC Creo Render Studio Version 7.0.12.0 登錄中的解除安裝資訊。
+將封存檔案從 E:\ptcsh0\ptc81.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\photorender。
+已將解除安裝資訊輸入到 PTC Creo Render Studio Version 7.0.12.0 的登錄中。
+將封存檔案從 E:\ptcsh0\ptc90.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\photorender。
+將封存檔案從 E:\ptcsh0\ptc91.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\photorender。
+將封存檔案從 E:\ptcsh0\ptc93.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\photorender。
+將封存檔案從 E:\ptcsh0\ptc109.cab 萃取到路徑 V:\Program Files\PTC\Creo 7.0.12.0\photorender。
+將封存檔案從 E:\ptcsh0\ptc343.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+將封存檔案從 E:\ptcsh0\ptc347.cab 萃取到路徑 V:\Program Files\PTC/Creo 7.0.12.0/Common Files。
+ Sessioninfo xml file :E:\pim\xml\psf_templates.xml)
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Direct/bin/direct.psf。
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/Direct/bin/cocreatesim.psf。
+建立開始選單程式資料夾捷徑 Creo Direct 7.0.12.0。
+建立桌面捷徑 Creo Direct 7.0.12.0。
+建立開始選單捷徑 uninstall。
+建立開始選單捷徑 reconfigure。
+已修改預設值為 psfFile 的現有登錄機碼 [HKCR].psf
+已修改預設值為 phaFile 的現有登錄機碼 [HKCR].pha
+已修改預設值為 asmFile 的現有登錄機碼 [HKCR].asm
+已修改預設值為 dgmFile 的現有登錄機碼 [HKCR].dgm
+已修改預設值為 drwFile 的現有登錄機碼 [HKCR].drw
+已修改預設值為 frmFile 的現有登錄機碼 [HKCR].frm
+已修改預設值為 layFile 的現有登錄機碼 [HKCR].lay
+已修改預設值為 mfgFile 的現有登錄機碼 [HKCR].mfg
+已修改預設值為 mrkFile 的現有登錄機碼 [HKCR].mrk
+已修改預設值為 prtFile 的現有登錄機碼 [HKCR].prt
+已修改預設值為 secFile 的現有登錄機碼 [HKCR].sec
+已修改預設值為 Creo Versioned File 的現有登錄機碼 [HKCR]creoFile
+已修改預設值為 PTC.Creo_Render.[VERSION] 的現有登錄機碼 [HKCR]creoFile
+已修改預設值為 [ICON],0 的現有登錄機碼 [HKCR]creoFile\DefaultIcon
+發現登錄機碼 [HKCR]creoFile\Shell 已經存在。
+已修改預設值為 [OpenWith] 的現有登錄機碼 [HKCR]creoFile\Shell\Open
+已修改預設值為 "[LP]/bin/photorender.exe" "%1" 的現有登錄機碼 [HKCR]creoFile\Shell\Open\Command
+已修改預設值為 PTC Startup File 的現有登錄機碼 [HKCR]psfFile
+已修改預設值為 [ICON],0 的現有登錄機碼 [HKCR]psfFile\DefaultIcon
+發現登錄機碼 [HKCR]psfFile\Shell 已經存在。
+已修改預設值為 [OpenWith] 的現有登錄機碼 [HKCR]psfFile\Shell\Open
+已修改預設值為 "[LP]/bin/photorender.exe" "%1" 的現有登錄機碼 [HKCR]psfFile\Shell\Open\Command
+已修改預設值為 PTC Helper App File 的現有登錄機碼 [HKCR]phaFile
+已修改預設值為 [ICON],0 的現有登錄機碼 [HKCR]phaFile\DefaultIcon
+發現登錄機碼 [HKCR]phaFile\Shell 已經存在。
+已修改預設值為 [OpenWith] 的現有登錄機碼 [HKCR]phaFile\Shell\Open
+已修改預設值為 "[LP]/bin/photorender.exe" "%1" 的現有登錄機碼 [HKCR]phaFile\Shell\Open\Command
+已修改預設值為 Creo Assembly File 的現有登錄機碼 [HKCR]asmFile
+已修改預設值為 PTC.Creo_Render.[VERSION] 的現有登錄機碼 [HKCR]asmFile
+已修改預設值為 [ICON],0 的現有登錄機碼 [HKCR]asmFile\DefaultIcon
+發現登錄機碼 [HKCR]asmFile\Shell 已經存在。
+已修改預設值為 [OpenWith] 的現有登錄機碼 [HKCR]asmFile\Shell\Open
+已修改預設值為 "[LP]/bin/photorender.exe" "%1" 的現有登錄機碼 [HKCR]asmFile\Shell\Open\Command
+已修改預設值為 Creo Diagram File 的現有登錄機碼 [HKCR]dgmFile
+已修改預設值為 PTC.Creo_Render.[VERSION] 的現有登錄機碼 [HKCR]dgmFile
+已修改預設值為 [ICON],0 的現有登錄機碼 [HKCR]dgmFile\DefaultIcon
+發現登錄機碼 [HKCR]dgmFile\Shell 已經存在。
+已修改預設值為 [OpenWith] 的現有登錄機碼 [HKCR]dgmFile\Shell\Open
+已修改預設值為 "[LP]/bin/photorender.exe" "%1" 的現有登錄機碼 [HKCR]dgmFile\Shell\Open\Command
+已修改預設值為 Creo Drawing File 的現有登錄機碼 [HKCR]drwFile
+已修改預設值為 PTC.Creo_Render.[VERSION] 的現有登錄機碼 [HKCR]drwFile
+已修改預設值為 [ICON],0 的現有登錄機碼 [HKCR]drwFile\DefaultIcon
+發現登錄機碼 [HKCR]drwFile\Shell 已經存在。
+已修改預設值為 [OpenWith] 的現有登錄機碼 [HKCR]drwFile\Shell\Open
+已修改預設值為 "[LP]/bin/photorender.exe" "%1" 的現有登錄機碼 [HKCR]drwFile\Shell\Open\Command
+已修改預設值為 Creo Format File 的現有登錄機碼 [HKCR]frmFile
+已修改預設值為 PTC.Creo_Render.[VERSION] 的現有登錄機碼 [HKCR]frmFile
+已修改預設值為 [ICON],0 的現有登錄機碼 [HKCR]frmFile\DefaultIcon
+發現登錄機碼 [HKCR]frmFile\Shell 已經存在。
+已修改預設值為 [OpenWith] 的現有登錄機碼 [HKCR]frmFile\Shell\Open
+已修改預設值為 "[LP]/bin/photorender.exe" "%1" 的現有登錄機碼 [HKCR]frmFile\Shell\Open\Command
+已修改預設值為 Creo Notebook File 的現有登錄機碼 [HKCR]layFile
+已修改預設值為 PTC.Creo_Render.[VERSION] 的現有登錄機碼 [HKCR]layFile
+已修改預設值為 [ICON],0 的現有登錄機碼 [HKCR]layFile\DefaultIcon
+發現登錄機碼 [HKCR]layFile\Shell 已經存在。
+已修改預設值為 [OpenWith] 的現有登錄機碼 [HKCR]layFile\Shell\Open
+已修改預設值為 "[LP]/bin/photorender.exe" "%1" 的現有登錄機碼 [HKCR]layFile\Shell\Open\Command
+已修改預設值為 Creo Manufacturing File 的現有登錄機碼 [HKCR]mfgFile
+已修改預設值為 PTC.Creo_Render.[VERSION] 的現有登錄機碼 [HKCR]mfgFile
+已修改預設值為 [ICON],0 的現有登錄機碼 [HKCR]mfgFile\DefaultIcon
+發現登錄機碼 [HKCR]mfgFile\Shell 已經存在。
+已修改預設值為 [OpenWith] 的現有登錄機碼 [HKCR]mfgFile\Shell\Open
+已修改預設值為 "[LP]/bin/photorender.exe" "%1" 的現有登錄機碼 [HKCR]mfgFile\Shell\Open\Command
+已修改預設值為 Creo Markup File 的現有登錄機碼 [HKCR]mrkFile
+已修改預設值為 PTC.Creo_Render.[VERSION] 的現有登錄機碼 [HKCR]mrkFile
+已修改預設值為 [ICON],0 的現有登錄機碼 [HKCR]mrkFile\DefaultIcon
+發現登錄機碼 [HKCR]mrkFile\Shell 已經存在。
+已修改預設值為 [OpenWith] 的現有登錄機碼 [HKCR]mrkFile\Shell\Open
+已修改預設值為 "[LP]/bin/photorender.exe" "%1" 的現有登錄機碼 [HKCR]mrkFile\Shell\Open\Command
+已修改預設值為 Creo Part File 的現有登錄機碼 [HKCR]prtFile
+已修改預設值為 PTC.Creo_Render.[VERSION] 的現有登錄機碼 [HKCR]prtFile
+已修改預設值為 [ICON],0 的現有登錄機碼 [HKCR]prtFile\DefaultIcon
+發現登錄機碼 [HKCR]prtFile\Shell 已經存在。
+已修改預設值為 [OpenWith] 的現有登錄機碼 [HKCR]prtFile\Shell\Open
+已修改預設值為 "[LP]/bin/photorender.exe" "%1" 的現有登錄機碼 [HKCR]prtFile\Shell\Open\Command
+已修改預設值為 Creo Section File 的現有登錄機碼 [HKCR]secFile
+已修改預設值為 PTC.Creo_Render.[VERSION] 的現有登錄機碼 [HKCR]secFile
+已修改預設值為 [ICON],0 的現有登錄機碼 [HKCR]secFile\DefaultIcon
+發現登錄機碼 [HKCR]secFile\Shell 已經存在。
+已修改預設值為 [OpenWith] 的現有登錄機碼 [HKCR]secFile\Shell\Open
+已修改預設值為 "[LP]/bin/photorender.exe" "%1" 的現有登錄機碼 [HKCR]secFile\Shell\Open\Command
+已建立預設值為 PTC.Creo_Render.[VERSION] 的登錄機碼 [HKCR]Applications\photorender.exe。
+已建立登錄機碼 [HKCR]Applications\photorender.exe\Shell。
+已建立預設值為 [OpenWith] 的登錄機碼 [HKCR]Applications\photorender.exe\Shell\Open。
+已建立預設值為 "[LP]/bin/photorender.exe" "%1" 的登錄機碼 [HKCR]Applications\photorender.exe\Shell\Open\Command。
+ Sessioninfo xml file :E:\pim\xml\psf_templates.xml)
+已建立指令集 V:\Program Files\PTC/Creo 7.0.12.0/photorender/bin/photorender.psf。
+建立開始選單程式資料夾捷徑 Creo Render Studio 7.0.12.0。
+建立桌面捷徑 Creo Render Studio 7.0.12.0。
+建立開始選單捷徑 uninstall。
+建立開始選單捷徑 reconfigure。
+再見!
