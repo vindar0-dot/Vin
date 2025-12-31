@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RWD Bootstrap 5</title>
+    <link rel="stylesheet" href="CSS/bootstrap.min.css">
+</head>
+
+<body>
+
+    <selection id="teaching-rwd-bootsrap5" class="py-5">
+        <div class="container">
+            <h1 class="text-danger">Bootstrap 5</h1>
+            <h2>斷點</h2>
+            <ul>
+                <li>xs(預設)：超小螢幕 (手機直向) 小於 576px</li>
+                <li>sm：小螢幕 (手機橫向) 大於等於 576px</li>
+                <li>md：中螢幕 (平板直向) 大於等於 768px</li>
+                <li>lg：大螢幕 (平板橫向、小筆電) 大於等於 992px</li>
+                <li>xl：超大螢幕 (一般筆電) 大於等於 1200px</li>
+                <li>xxl：特大螢幕 (大型桌機) 大於等於 1400px</li>
+            </ul>
+            <h2>容器類</h2>
+            <ul>
+                <li>.container：固定寬度容器，會隨斷點改變寬度</li>
+                <li>.container-fluid 滿版寬度容器，寬度100%</li>
+            </ul>
+            <h2>網格系統</h2>
+            <p>bootsrap 使用 12 欄的彈性網格系統，可以透過設定不同斷點的欄數來達到響應式布局</p>
+            <div class="row">
+                <h3>範例</h3>
+                <div class="col-1" style="background-color: aquamarine;">a</div>
+                <div class="col-1" style="background-color: yellow;">b</div>
+                <div class="col-1" style="background-color: aquamarine;">c</div>
+                <div class="col-1" style="background-color: yellow;">d</div>
+                <div class="col-1" style="background-color: aquamarine;">e</div>
+                <div class="col-1" style="background-color: yellow;">f</div>
+                <div class="col-1" style="background-color: aquamarine;">g</div>
+                <div class="col-1" style="background-color: yellow;">h</div>
+                <div class="col-1" style="background-color: aquamarine;">i</div>
+                <div class="col-1" style="background-color: yellow;">j</div>
+                <div class="col-1" style="background-color: aquamarine;">k</div>
+                <div class="col-1" style="background-color: yellow;">l</div>
+            </div>
+            <div class="row">
+                <div class="col-2" style="background-color: aquamarine;">a</div>
+                <div class="col-2" style="background-color: yellow;">b</div>
+                <div class="col-2" style="background-color: aquamarine;">a</div>
+                <div class="col-2" style="background-color: yellow;">b</div>
+                <div class="col-2" style="background-color: aquamarine;">a</div>
+                <div class="col-2" style="background-color: yellow;">b</div>
+            </div>
+            <div class="row">
+                <div class="col-4" style="background-color: aquamarine;">a</div>
+                <div class="col-4" style="background-color: yellow;">b</div>
+                <div class="col-4" style="background-color: aquamarine;">a</div>
+            </div>
+            <div class="row">
+                <div class="col-3 col-md-6" style="background-color: aquamarine;">a</div>
+                <div class="col-3 col-md-6" style="background-color: yellow;">b</div>
+                <div class="col-3 col-md-6" style="background-color: aquamarine;">a</div>
+                <div class="col-3 col-md-6" style="background-color: yellow;">b</div>
+            </div>
+            <h3>offset</h3>
+            <p>偏移欄可通過 offset-*-* 類來設置</p>
+            <div class="row">
+                <div class="col-6 offset-xl-0 col-md-3 offset-md-3 col-sm-4 offset-sm-2"
+                    style="background-color: aquamarine;">a</div>
+                <div class="col-6 col-md-3 col-sm-4" style="background-color: yellow;">b</div>
+            </div>
+            <h2>間距</h2>
+            <ul>
+                <li>m - margin 外邊距</li>
+                <li>p - padding 內邊距</li>
+                <li>t - top 上方</li>
+                <li>b - botton 下方</li>
+                <li>s - start 左方 (LTR 文字方向)</li>
+                <li>e - end 右方 (LTR 文字方向)</li>
+                <li>x - 左右</li>
+                <li>y - 上下</li>
+                <li>範圍數值：0, 1, 2, 3, 4, 5, auto (0 為無間距, 1-5 為大小不同的間距，auto 為自動)</li>
+            </ul>
+            <div class="row">
+                <div class="col-4 bg-primary text-white p-3 mt-3">內邊距 p-3，外邊距 mt-3</div>
+                <div class="col-4 bg-secondary text-white p- mt-2">內邊距 p-3，外邊距 mt-3</div>
+                <div class="col-4 bg-primary text-white p-3 mt-3">內邊距 p-3，外邊距 mt-3</div>
+            </div>
+
+            <div class="row">
+
+            </div>
+            <div class="row">
+
+
+            <h2>color</h2>
+        </div>
+
+
+
+
+
+
+        </div>
+        <script src="JS/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
