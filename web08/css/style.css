@@ -7,8 +7,8 @@ body {
     background-color: black;
     color: white;
     background-image: url(../images/menu.gif);
-    padding-top: 200px;
-    padding-bottom: 20px;
+    padding-top: 180px;
+    padding-bottom: 100px;
     background-repeat: no-repeat;
 }
 #nav ul {
@@ -46,7 +46,7 @@ text-decoration: none;
 }
 #main {
     background-color: #fff;
-    padding: 0 10px 0 160px;
+    margin: 0 10px 0 160px;
     padding: 0 20px;
     min-height: calc(100vh - 100px);
 }
