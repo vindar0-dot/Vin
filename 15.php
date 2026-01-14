@@ -1,3 +1,26 @@
+<?php
+    $host = 'localhost';        // 主機名稱
+    $db   = 'Vin';              // 資料庫名稱
+    $db_user = 'Vin';           // 帳號
+    $db_pw = '1234';   // 密碼
+
+    // 設定連線字串
+    $conn = mysqli_connect($host, $db_user, $db_pw, $db);
+
+    // 檢視連線結果
+    // echo var_dump($coon);
+
+    if($conn) {
+        // echo 'conn done';
+
+        // 設定 SQL 查詢指令
+        $sql = 'SELECT * FROM news';
+        // 向資料庫下指令並取回資料
+        $datas = mysqli_query($conn, $sql);
+        
+      
+    }
+?>
 <!doctype html>
 <html lang="en">
     <head>
@@ -20,12 +43,49 @@
 
     <body>
         <header>
-           <div class="container py-5">
+           <div class="container pt-5">
             <h1>新聞管理</h1>
            </div>
         </header>
         <main>
-            
+            <div class="container pt-5">
+                <div class="row">
+                    <div class="col-12">
+                        <table class="table table-bordered">
+                            <tr>
+                                <th>編號</th>
+                                <th>新聞標題</th>
+                                <th width="100">焦點圖片</th>
+                                <!-- <th>新聞內容</th> -->
+                                <th>新聞日期</th>
+                                <th>發佈人</th>
+                                <th>功能</th>
+                            </tr>
+                       
+                            <?php
+                                  // 先判斷是否有資料
+                                  if(mysqli_num_rows($datas)>0){
+                                     // 將資料表的內容一筆筆抓到 $ROW 中
+                                     while($row = mysqli_fetch_assoc($datas)){
+                                        echo '<tr>';
+                                        echo '<td>'.$row['news_id'].'</td>';
+                                        echo '<td><a href="15-1.php?id='.$row['news_id'].
+                                             '">'.$row['news_title'].'</a></td>';
+                                        echo '<td><img class="img-fluid" src="upload/news/'.
+                                              $row['news_img'].
+                                              '" alt=""></td>';
+                                        // echo '<td>'.$row['news_content'].'</td>';
+                                        echo '<td>'.$row['news_created'].'</td>';
+                                        echo '<td>'.$row['news_poster'].'</td>';
+                                        echo '<td><a href="16-1.php?id='.$row['news_id'].'" class="btn btn-info">編輯</a></td>';
+                                        echo '</tr>';
+                                     }
+                                }
+                            ?>
+                        </table>
+                    </div>
+                </div>
+            </div>
         </main>
         <footer>
             <!-- place footer here -->
