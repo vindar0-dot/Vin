@@ -40,32 +40,32 @@
             // alert("day=" + day);
             switch (day) {
                 case "0":
-                    alert("今天星期天，放假囉!")
+                    alert("今天星期天，放假囉!");
                     break;
                 case "1":
-                    alert("今天星期一，開始工作吧!") 
+                    alert("今天星期一，開始工作吧!"); 
                     break;
                 case "2":
-                    alert("今天星期二，加油!") 
+                    alert("今天星期二，加油!"); 
                     break;
                 case "3":
-                    alert("今天星期三，快到週末了!")
+                    alert("今天星期三，快到週末了!");
                     break;
                 case "4":
-                    alert("今天星期四，準備迎接周末!") 
+                    alert("今天星期四，準備迎接周末!"); 
                     break;
                 case "5":
-                    alert("今天星期五，周末快樂!") 
+                    alert("今天星期五，周末快樂!"); 
                     break;
                 case "6":
-                    alert("今天星期六，好好休息!")
+                    alert("今天星期六，好好休息!");
                     break;
                 // default:
                 //     alert("請選擇有效的日期")        
                 //     break;
             }
         }
-    </script>
+    </script>   
     <h2>迴圈</h2>
     <p>迴圈用來重複執行一段程式碼，直到特定條件不再符合為止</p>
     <h3>for 迴圈</h3>
@@ -106,10 +106,10 @@
     </pre>
 
     <script>
-        let cars = ["BMW", "volvo", "Saab", "Ford", "Fiat", "Audi",];
+        let cars = ["BMW", "Volvo", "Saab", "Ford", "Fiat", "Audi"];
         console.log(cars.join());
         for (let i in cars) {
-            console.log("廠牌", cars[i]);
+            console.log("廠牌=", cars[i]);
         }
     </script>
 
@@ -189,11 +189,17 @@
             if (i == 5) {
                 continue; // 當 i 等於 5 時跳出迴圈
             }
-            console.log("break i =", 1);
+            console.log("break i =", i);
         }
     </script>
 
     <h2>其他</h2>
+    <h3>typeof</h3>
+    <p>typeof 運算子用來取得變數的資料型態</p>
+    <script>
+        let x = new Date().getDate();
+        console.log("x 的資料類型是 " + typeof x); 
+    </script>
 
 </body>
 </html>

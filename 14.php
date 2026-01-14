@@ -1,6 +1,10 @@
 <?php
     // 讀取網址上的參數 username
+<<<<<<< HEAD
     // 如網址：http://localhost/Vin/14.php?username=tom&q=vin
+=======
+    // 如網址：http://localhost/Vin2/14.php?username=tom&q=vin
+>>>>>>> df8522d2cfbc897f923a9afab0c33f8a1388ff74
     // 將 $name 預設為空值
     $name = '';
     // 判斷網址有參數 username 時，將值寫入 $name 中
@@ -41,7 +45,11 @@
     // echo $pw;
 
     // 常數的宣告與使用
+<<<<<<< HEAD
     define("URL" , "http://localhost/Vin/" );
+=======
+    define("URL" , "http://localhost/Vin2/" );
+>>>>>>> df8522d2cfbc897f923a9afab0c33f8a1388ff74
     // echo URL.'14.php';
 
     // 宣告使用台北時間來當日期的計算
@@ -63,6 +71,7 @@
         if($_FILES['upload']['error']>0){
             echo '檔案錯誤：'.$_FILES['upload']['error'];
         }else{
+<<<<<<< HEAD
             echo '有檔案：'.$_FILES['upload']['name'].
                 '('.$_FILES['upload']['tmp_name'].')'.
                 $_FILES["upload"]["type"];
@@ -70,16 +79,32 @@
             $ext = pathinfo($_FILES['upload']['name'],PATHINFO_EXTENSION);
             // 判斷副檔名是否為允許的檔案類型
             if(in_array($ext, $allow)){    
+=======
+            echo '有檔案：'.$_FILES['upload']['name'].'<br>'.
+                '('.$_FILES['upload']['tmp_name'].')'.'<br>'.
+                $_FILES["upload"]["type"];
+            // 取得原始檔案的副檔名
+            $ext = pathinfo($_FILES['upload']['name'],PATHINFO_EXTENSION);
+            if(in_array($ext, $allow)){
+>>>>>>> df8522d2cfbc897f923a9afab0c33f8a1388ff74
             // 使用日期組合出不重複的檔案名稱
             $filename = $num.'.'.$ext;
             // 將上傳至暫存目錄的檔案移置網站指定的目錄內並換回原始名稱    
             move_uploaded_file($_FILES['upload']['tmp_name'],'upload/'.$filename);
             }else{
+<<<<<<< HEAD
                 // 強制結束 exit 以下所有PHP程式及網頁內容
                 exit;
             }
         }
     }   
+=======
+                exit;
+            }
+        }
+    }
+   
+>>>>>>> df8522d2cfbc897f923a9afab0c33f8a1388ff74
 
     // 數字遞增，++在後面意味已加過
     // $a = 1;

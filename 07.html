@@ -37,8 +37,7 @@
     <!-- #msg02 當成顯示結果的區域 -->
     <p id="msg02">結果將顯示於此</p>
     <!-- 按鈕 -->
-    <input type="button" value="計算" 
-            onclick="document.getElementById('msg02').innerText = sum(1,1)">
+    <input type="button" value="計算" onclick="document.getElementById('msg02').innerText = sum(1,1)">
     <!-- <input type= "button" value="計算" onclick="2" -->
 
 
@@ -87,7 +86,6 @@
             // 條件為假時執行的程式碼
         } else {    
             // 以上條件皆不為真時執行的程式碼
-            
         }
     </pre>
     <input type="number" name="" id="score" placeholder="請輸入分數">
@@ -98,7 +96,7 @@
     <p id="demo"></p>
     <script>
         function myFunction() {
-            var x = "";
+            var x = "Good evening";
             var time = new Date().getHours();
             console.log("time =", time);
             if (time < 17) {
@@ -135,49 +133,48 @@
             "Car 1: " + cars1 + ", Car 2: " + cars2 + ", Car 3: " + cars3;
 
         var cars = ["FORD", "TOYOTA", "MAZDA"];
+
         console.log("cars", cars.join());
         cars.sort();
         console.log("cars", cars.join());
         cars.reverse();
         console.log("cars", cars.join());
-
         document.getElementById("msg05").innerText +=
-            "\nCar Array: " + cars[0] + ", " + car[1] + ", " + cars[2];
+            "\nCar Array: " + cars[0] + ", " + cars[1] + ", " + cars[2];
 
         var chinese_scores = [85, 90, 78, 92, 88, 76, 95, 89, 84, 91];
         var math_scores = [80, 75, 88, 95, 91, 82, 87, 90, 93, 78];
         var english_scores = [90, 85, 87, 93, 89, 92, 88, 91, 86, 94];
 
         console.log("chinese", chinese_scores.length);
-        console.log("math", mach_scores.indexOf(100)); // 查找元素的位置，找不到
-        console.log("english", english_scores.join);
-        english_scores.sort(function (a, b) { return a - b }); // 陣列排 ，由小到大
-        console.log("english", english_scores.join);
-        english_scores.reverse();
+        console.log("math", math_scores.indexOf(100)); // 查找元素的位置，找不到回傳 -1
+        console.log("english", english_scores.join());
+        english_scores.sort(function (a, b) { return a - b }); // 陣列排序(由小到大)
+        console.log("english", english_scores.join());
+        english_scores.reverse(); // 陣列反轉
         console.log("english", english_scores.join());
 
         english_scores.push(100); // 在陣列末尾添加一個新元素
         console.log("english", english_scores.join());
         english_scores.unshift(99); // 在陣列開頭添加一個新元素
         console.log("english", english_scores.join());
-        english_scores.pop; // 移除陣列末尾的元素
+        english_scores.pop() // 移除陣列末尾的元素
         console.log("english", english_scores.join());
-        english_scores.shift; // 移除陣列開頭的元素
+        english_scores.shift(); // 移除陣列開頭的元素
         console.log("english", english_scores.join());
 
-
-        document.getElementById("msg05").innerHTML = chinese_scores[0] + math__scores[0] + english_scores[0] + "<br>";
+        document.getElementById("msg05").innerHTML = chinese_scores[0] + math_scores[0] + english_scores[0] + "<br>";
         document.getElementById("msg05").innerHTML += (chinese_scores[0] + math_scores[0] + english_scores[0]) / 3;
 
         var cars2 = [
             { model: "Ford", color: "red", year: 2020 },
             { model: "Toyota", color: "blue", year: 2019 },
-            { model: "Mazda", color: "green", year: 2021 },
+            { model: "Mazda", color: "green", year: 2021 }
         ];
 
-        console.log("cars2",cars2.length);
-        
-        document.getElementById("msg05").innerHTML += "<br>" + cars2[1].model + ", " + cars2[1].color + ", " +cars2[1].year;
+        console.log("cars2", cars2.length);
+
+        document.getElementById("msg05").innerHTML += "<br>" + cars2[1].model + ", " + cars2[1].color + ", " + cars2[1].year;
 
 
         let a = 10;
@@ -204,13 +201,14 @@
         car["color"] = "Yello";
 
         document.getElementById("msg04").innerText =
-            "car model: " + car.model + ", color: " + car.model +
+            "Car Model: " + car.model + ", Color: " + car.color +
             ". " + car.start() + " " + car.stop();
 
-        // 呼叫函數，並傳入參數
-        // showMessage("Hellow");
 
-        // 自訂函數
+        // 呼叫函數，並傳入參數
+        // showMessage("Hello");
+
+        // 自訂函數(副程式)
         function showMessage(message) {
             // 將參數 message 的值顯示在網頁上
             message = document.getElementById("myText").value;
@@ -221,8 +219,9 @@
 
         // 帶有回傳值的函數
         function sum(a, b) {
-            return a + b
+            return a + b;
         }
+
 
         var c = 0;
         c = c + 1;
